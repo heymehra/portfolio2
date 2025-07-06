@@ -15,7 +15,7 @@ const Home = () => {
           Contact Me
         </button>
         <a
-          href="public\assets\Kunal resume reactDev (1).pdf"
+          href="/assets/Kunal resume reactDev (1).pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-5 md:md-10 ml-3 inline-block"
@@ -26,7 +26,7 @@ const Home = () => {
         </a>
       </div>
       <div>
-        <img className="w-2/4 ml-80" src="public\assets\Programming-rafiki.png" alt="" />
+        <img className="w-2/4 ml-80" src="/assets/Programming-rafiki.png" alt="" />
       </div>
     </div>
   );
